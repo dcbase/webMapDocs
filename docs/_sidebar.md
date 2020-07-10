@@ -8,7 +8,7 @@
 
     - [初始化](02_project/init)
     - [项目功能点](02_project/desc)
-    - [项目目录结构](02_project/document)
+    - [项目目录及使用](02_project/document)
 
 - UI组件
 
