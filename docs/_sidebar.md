@@ -22,7 +22,11 @@
 
 - maptalks方法
 
-    - [前言](03_component/desc)
+    - [前言](05_maptalks/desc)
+    - [GIS功能框架](05_maptalks/document)
+    - [地图配置](05_maptalks/mapConfig)
+    - [地图公共方法](05_maptalks/mapCommon)
+    - [地图模块功能](05_maptalks/mapModule)
 
 - 问题
 
